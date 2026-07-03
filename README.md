@@ -27,7 +27,7 @@ The calculator can perform basic arithmetic operations like addition, subtractio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dikshit0012/calculator.git
+https://github.com/dikshit0012/calculator
 ```
 
 2. Open the project folder.
