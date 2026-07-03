@@ -32,7 +32,7 @@ git clone https://github.com/dikshit0012/calculator.git
 
 2. Open the project folder.
 
-3. Double-click `index.html` (or open it in your browser).
+3. Double-click `calculator.html` (or open it in your browser).
 
 That's it! No additional setup or installation is required.
 
